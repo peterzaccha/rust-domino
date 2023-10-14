@@ -1,2 +1,3 @@
 # rust-domino
-# rust-domino
+
+![](assets/screenshot.png)
